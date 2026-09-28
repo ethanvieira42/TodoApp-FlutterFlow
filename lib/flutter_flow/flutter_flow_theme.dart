@@ -150,7 +150,7 @@ class LightModeTheme extends FlutterFlowTheme {
   @Deprecated('Use tertiary instead')
   Color get tertiaryColor => tertiary;
 
-  late Color primary = const Color(0xFF89DC8C);
+  late Color primary = const Color(0xFFBF86D8);
   late Color secondary = const Color(0xFF5794F2);
   late Color tertiary = const Color(0xFFEE8B60);
   late Color alternate = const Color(0xFFF5F5F5);
@@ -168,9 +168,9 @@ class LightModeTheme extends FlutterFlowTheme {
   late Color info = const Color(0xFFFFFFFF);
 
   late Color customColor1 = const Color(0xFF242424);
-  late Color customColor2 = const Color(0xFF89DC8C);
+  late Color customColor2 = const Color(0xFFB989DC);
   late Color blue = const Color(0xFF5794F2);
-  late Color green = const Color(0xFF89DC8C);
+  late Color green = const Color(0xFFDC89DB);
   late Color background = const Color(0xFFF5F5F5);
 }
 
